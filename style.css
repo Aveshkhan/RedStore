@@ -510,10 +510,13 @@ form a{
     padding: 10px 30px;
     margin: 30px 0;
     transition:  0.6s ;
+    border-radius: 0px;
+    font-size: 16px;
 }
 .btn:hover{
     background: rgb(44, 44, 44);
     transform: translateY(-5px);
+    color: #fff;
 }
 
 small{
